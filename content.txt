@@ -1,2 +1,4 @@
 black
 white
+pink
+green
